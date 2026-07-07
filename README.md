@@ -6,7 +6,7 @@
 **TAs:** Maitri Shah and Nima Dindarsafa  
 **Team Members:** Jagadeeswar Reddy Chennuru (7075082), Nitin Govind Vadher (7076318)  
 **Team ID:** X  
-**Best Public Score:** 0.605296 (rank 20 / 61)
+**Best Public Score:** 0.605296 (rank 27 / 61)
 
 ---
 
