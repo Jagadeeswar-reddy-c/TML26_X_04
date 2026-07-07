@@ -4,8 +4,8 @@
 **Course:** Trustworthy Machine Learning 2026, CISPA  
 **Supervisors:** Adam Dziedzic and Franziska Boenisch  
 **TAs:** Maitri Shah and Nima Dindarsafa  
-**Team Members:** Jagadeeswar Reddy Chennuru (7075082), Nitin Govind Vadher (7076318)
-**Team ID:** X
+**Team Members:** Jagadeeswar Reddy Chennuru (7075082), Nitin Govind Vadher (7076318)  
+**Team ID:** X  
 **Best Public Score:** 0.605296 (rank 20 / 61)
 
 ---
